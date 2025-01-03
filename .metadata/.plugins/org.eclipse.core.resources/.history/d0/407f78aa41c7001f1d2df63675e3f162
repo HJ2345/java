@@ -1,0 +1,40 @@
+package sub2;
+/*
+ * 날짜 : 2024/12/31
+ * 이름 : 홍준혁
+ * 내용 : ch02.변수와 연산자
+ *  
+ */
+public class DataTypeTest {
+
+	public static void main (String[]args) {
+		
+		// 정수형
+		byte  num1 = 127;
+		short num2 = 32767;
+		int   num3 = 2147483647;
+		long  num4 = 922337203685477507L;// long 뒤에는 L
+		
+		System.out.println("num1 : "+ num1);
+		System.out.println("num2 : "+ num2);
+		System.out.println("num3 : "+ num3);
+		System.out.println("num4 : "+ num4);
+		
+		// 실수형
+		float  var1 = 0.123456789f;// float 뒤에는 f
+		double var2 = 0.123456789;
+		
+		System.out.println("var1 : "+ var1);
+		System.out.println("var2 : "+ var2);
+		
+		
+		// 논리형
+		// 문자형
+		// 문자열
+		
+		
+		
+		
+		
+	}
+}

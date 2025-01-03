@@ -1,0 +1,27 @@
+package sub2;
+/*
+ * 날짜 : 2024/12/31
+ * 이름 : 홍준혁
+ * 내용 : ch02.변수와 연산자
+ *  
+ */
+public class DataTypeTest {
+
+	public static void main (String[]args) {
+		
+		// 정수형
+		byte  num1 = 127;
+		short num2 = 32767;
+		
+		
+		// 실수형
+		// 논리형
+		// 문자형
+		// 문자열
+		
+		
+		
+		
+		
+	}
+}

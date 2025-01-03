@@ -1,0 +1,9 @@
+package codetset;
+/*
+ * 2025.01.03
+ */
+public class step01 {
+public static void main(String[] args) {
+	System.out.print("Hello World");
+}
+}
